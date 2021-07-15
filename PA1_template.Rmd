@@ -1,7 +1,5 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-author: "Zhaofei ZHeng"
-date: "07/15/2021"
 output: 
   html_document:
     keep_md: true
